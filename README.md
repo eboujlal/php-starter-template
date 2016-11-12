@@ -1,7 +1,7 @@
 # About it ?
-this is a stater php project for beginners, a structured projects with diffrents folder ...
+This is a stater php project for beginners, a structured projects with diffrents folder ...
 # Version
-this is my first version, it is V0.1
+This is my first version, it is V0.1
 # Compenents 
 There is many technologies used in this project
 1- Bootstrap
